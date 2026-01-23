@@ -1,4 +1,3 @@
-import React from "react";
 export default function SiteFooter() {
   return (
     <footer className="bg-[#F8FAFF] border-t border-[#E7ECF6] text-[#0B1223]">

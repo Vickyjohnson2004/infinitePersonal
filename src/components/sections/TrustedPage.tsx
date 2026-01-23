@@ -1,5 +1,3 @@
-import React from "react";
-
 const logos = [
   {
     src: "https://cdn.prod.website-files.com/628ef5003d1b8f677e814867/62c6944ca0087580bfbf92b3_img-partners-clients-cushmanwakefield.png",
