@@ -71,7 +71,7 @@ export default function HeroSection() {
       </div>
 
       {/* Gradient overlay */}
-      <div className="pointer-events-none absolute inset-0 bg-gradient-to-r from-black/65 to-black/0" />
+      <div className="pointer-events-none absolute inset-0 bg-linear-to-r from-black/65 to-black/0" />
 
       {/* Content */}
       <div className="relative z-10 h-full w-full flex items-center pl-6 pr-6 sm:pl-10 md:pl-16 lg:pl-24 xl:pl-28">

@@ -1,33 +1,33 @@
 import { motion } from "framer-motion";
 import Button from "../ui/Button";
-import React from "react";
 
-const stats = [
-  {
-    icon: "https://cdn.prod.website-files.com/628ef5003d1b8f677e814867/67bd8567f74f0f552fc5627b_switch-buildings.svg",
-    value: "6K+",
-    label: "Buildings Connected",
-  },
-  {
-    icon: "https://cdn.prod.website-files.com/628ef5003d1b8f677e814867/67bd856712d8988dedb0e2a9_switch-floorare.svg",
-    value: "42M",
-    label: (
-      <>
-        Total Floor Area (ft<sup>2</sup>)
-      </>
-    ),
-  },
-  {
-    icon: "https://cdn.prod.website-files.com/628ef5003d1b8f677e814867/67bd8567bd3f60fbbee31aa6_switch-datapoints.svg",
-    value: "276B",
-    label: "No. of Data Points",
-  },
-  {
-    icon: "https://cdn.prod.website-files.com/628ef5003d1b8f677e814867/67bd856701fea039134767a1_switch-optimization.svg",
-    value: "2.5x",
-    label: "Optimization Opportunities",
-  },
-];
+
+// const stats = [
+//   {
+//     icon: "https://cdn.prod.website-files.com/628ef5003d1b8f677e814867/67bd8567f74f0f552fc5627b_switch-buildings.svg",
+//     value: "6K+",
+//     label: "Buildings Connected",
+//   },
+//   {
+//     icon: "https://cdn.prod.website-files.com/628ef5003d1b8f677e814867/67bd856712d8988dedb0e2a9_switch-floorare.svg",
+//     value: "42M",
+//     label: (
+//       <>
+//         Total Floor Area (ft<sup>2</sup>)
+//       </>
+//     ),
+//   },
+//   {
+//     icon: "https://cdn.prod.website-files.com/628ef5003d1b8f677e814867/67bd8567bd3f60fbbee31aa6_switch-datapoints.svg",
+//     value: "276B",
+//     label: "No. of Data Points",
+//   },
+//   {
+//     icon: "https://cdn.prod.website-files.com/628ef5003d1b8f677e814867/67bd856701fea039134767a1_switch-optimization.svg",
+//     value: "2.5x",
+//     label: "Optimization Opportunities",
+//   },
+// ];
 
 const features = [
   {
