@@ -4,7 +4,7 @@ import Button from "./ui/Button";
 
 const slides = [
   {
-    image: "/public/newimg1.jpeg",
+    image: "/newimg1.jpeg",
     headline: "Designing Tomorrow's",
     headlineLine2: "Experience, Today",
     description:
@@ -12,7 +12,7 @@ const slides = [
     primaryCta: "Discover More",
   },
   {
-    image: "/public/newimg2.jpeg",
+    image: "/newimg2.jpeg",
     headline: " We Design",
     headlineLine2: "Experiences That Define the Future.",
     description:
@@ -20,7 +20,7 @@ const slides = [
     primaryCta: "Explore Solutions",
   },
   {
-    image: "/public/newimg3.jpeg",
+    image: "/newimg3.jpeg",
     headline: "Empowering Ideas ",
     headlineLine2: "Through Design Systems",
     description:
